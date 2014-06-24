@@ -18,7 +18,7 @@
 
 		.feature-icon
 		{
-			margin-bottom: 2em;
+			margin-bottom: 1em;
 		}
 
 /*********************************************************************************/
@@ -37,13 +37,13 @@
 	.main
 	{
 	}
-	
+
 		.main > header
 		{
 			padding: 4em 0 4em 0;
 		}
-		
+
 		.main > .content
 		{
-			padding: 4em 0 4em 0;
+			padding: 3em 0 4em 0;
 		}
